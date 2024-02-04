@@ -47,4 +47,4 @@ These projects have significantly enhanced my understanding of JavaScript algori
 
 Feel free to explore the individual project files for a detailed look into the code and solutions. Happy coding!
 
-![Example Image](images/JavaScript Algorithms and Data Structure Certificate.png)
+![Example Image](https://freecodecamp.org/certification/JeanPaulElisa/javascript-algorithms-and-data-structures)
