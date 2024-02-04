@@ -46,3 +46,5 @@ This repository documents my journey through the JavaScript Algorithms and Data 
 These projects have significantly enhanced my understanding of JavaScript algorithms and data structures. Each project presented unique challenges and problem-solving opportunities, contributing to a solid foundation in algorithmic thinking.
 
 Feel free to explore the individual project files for a detailed look into the code and solutions. Happy coding!
+
+![Example Image](JavaScript Algorithms and Data Structure Certificate.png)
